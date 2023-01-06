@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Emmanuel’s maps</string>
+    <string name="googlemap_api_key">AIzaSyCu--XPvjl6QGD3NgqnuiYVw4naYBZwJZg</string>
+    <string name="check_internet_connection">Check you internet connection</string>
+    <string name="place_id">Place ID</string>
+    <string name="name">Name</string>
+    <string name="gaelic_name">Gaelic Name</string>
+    <string name="type">Type</string>
+    <string name="latitide">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="enter_radiud">Radius in meters (1000 m)</string>
+    <string name="search">Search Places</string>
+    <string name="no_places_found">No Places found</string>
+    <string name="go_back">Go Back</string>
+
+</resources>
